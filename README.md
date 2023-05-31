@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
- Desafio para criar um pagina de uma loja de sorveteria levando em consideração o Mobile first! 🍦
+ Desafio para criar um pagina de uma empresa de consultoria levando em consideração o Mobile first! 
 
 
  <p align="center">
