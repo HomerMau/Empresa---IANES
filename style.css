@@ -5,12 +5,9 @@
 }
 
 :root {
-  --ff-heading: "Staatliches", cursive;
-  --ff-texting: "Palanquin", sans-serif;
-  --ff-page-text: "Roboto", sans-serif;
-  --ff-footer: "Open Sans", sans-serif;
 
-  --hue: 208;
+
+  --hue: 220;
   --hd-primary: hsl(var(--hue), 17%, 62%);
   --bg-primary: hsl(var(--hue), 100%, 97%);
   --box-bg: hsl(var(--hue), 91%, 96%);
@@ -151,9 +148,7 @@ main {
   opacity: 0.7;
 }
 
-footer {
-  display: none;
-}
+
 
 @media (min-width: 900px) {
   .page {
