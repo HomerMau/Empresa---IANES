@@ -5,7 +5,10 @@
 }
 
 :root {
-
+  --ff-heading: "Staatliches", cursive;
+  --ff-texting: "Palanquin", sans-serif;
+  --ff-page-text: "Roboto", sans-serif;
+  --ff-footer: "Open Sans", sans-serif;
 
   --hue: 220;
   --hd-primary: hsl(var(--hue), 17%, 62%);
